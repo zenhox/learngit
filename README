@@ -7,4 +7,6 @@ git reset --hard HEAD^
 git reflog   
 git reset --hard  id
 git add  将东西加入本地的暂存区
+git checkout -- file  将file 会退到暂存区版本
+git reset HEAD README  将file 会退到版本库版本
 
