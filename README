@@ -1,2 +1,10 @@
 Git is really a version control system
 Git is really free software under the GPL
+
+git log
+git status
+git reset --hard HEAD^
+git reflog   
+git reset --hard  id
+git add  将东西加入本地的暂存区
+
