@@ -8,5 +8,7 @@ git reflog
 git reset --hard  id
 git add  将东西加入本地的暂存区
 git checkout -- file  将file 会退到暂存区版本
-git reset HEAD README  将file 会退到版本库版本
+git reset HEAD README  将file 会退到版本库版本,可能是暂存区回退到版本库
+
+添加远程仓库 git remote add origin git@github.com:zenhox/learngit.git
 
